@@ -8,29 +8,29 @@ global.autoTyping = false // true a i dah chuan i type la a lang ang
 global.autoRecord = false // true a i dah chuan Voice record angin i lang ang
 global.available = true // false a i dah chuan offline angin a awm ang
 global.public = true // false ah i dah chuan nang chauhin i hmang thei ang
-global.autoread = false // true a i dah chuan message zawng zawng read vek zelin a awm ang 
-global.autoread_status = false // true a i dah chuan auto status view in a awm ang
+global.autoread = true // true a i dah chuan message zawng zawng read vek zelin a awm ang 
+global.autoread_status = true // true a i dah chuan auto status view in a awm ang
 global.default_language = true // default language i hman dawn loh chuan false ah hia  dah tur
 global.mtl_language = false // multi language i hman dawn chuan true ah dah tur
 global.bot_language = 'lus' // I language code dah tur code hman i hriat loh chuan https://herbert70.blogspot.com/p/language-code-for-hbwabot.html?m=1 he link ah hian en thei a ni ang
 
 //info
-global.owner = ['919366251966'] // I phone number in thlak rawh
-global.ownernumber = '919366251966' // I phone number in thlak rawh
-global.ownername = "꧁celine꧂" // I hming dah tel bawk la
+global.owner = ['916009259402'] // I phone number in thlak rawh
+global.ownernumber = '916009259402' // I phone number in thlak rawh
+global.ownername = "9.9%" // I hming dah tel bawk la
 global.location = "India, Mizoram, Aizawl" // I awmna hmun daha
-global.botname = "celine?" // I bot hming tur dah la
+global.botname = "9.9%" // I bot hming tur dah la
 global.ownerweb = "https://youtube.com/@HBMods_Channel"
 global.themeemoji = '🤖'
-global.creator = "919366251966@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
+global.creator = "916009259402@s.whatsapp.net" // @ symbol hmaa number hi i phone number in thlak rawh
 
-global.ownerNumber = ["919366251966@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
+global.ownerNumber = ["916009259402@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefa = ['','!','.','#','/']
 global.sessionName = 'session'
 
 // Sticker Pack Name
-global.packname = "Sticker By Celine"
-global.author = "Celine"
+global.packname = "Sticker By 9.9%"
+global.author = "9.9%"
 global.hbmods = "https://herbert70.blogspot.com/"
 //_______________________________________________
 global.defaultpp = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
